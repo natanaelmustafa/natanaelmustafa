@@ -1,4 +1,4 @@
-# Olá, eu sou o Natanael Mustafá!
+**Olá, eu sou o Natanael Mustafá!**
 
 Desde cedo, a fascinação pela tecnologia e pela resolução de problemas me guiou para a área de TI. Encontrei no desenvolvimento de software o equilíbrio perfeito entre raciocínio lógico, arquitetura e resultados práticos. 
 
