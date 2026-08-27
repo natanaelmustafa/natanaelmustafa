@@ -5,6 +5,7 @@ Desde cedo, a fascinação pela tecnologia e pela resolução de problemas me gu
 Hoje, atuo focado nos **bastidores da tecnologia (Back-end)**, construindo APIs sólidas, aplicando padrões de arquitetura limpa e garantindo que as engrenagens dos sistemas funcionem com alta performance e estabilidade.
 
 **Tecnologias**
+
 <img width="305" height="92" alt="image" src="https://github.com/user-attachments/assets/82ea3691-6871-44f8-b7cb-c5dfd2988b11" />
 
 
