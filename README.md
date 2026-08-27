@@ -1,33 +1,18 @@
 **Olá, eu sou o Natanael Mustafá!**
 
-Desde cedo, a fascinação pela tecnologia e pela resolução de problemas me guiou para a área de TI. Encontrei no desenvolvimento de software o equilíbrio perfeito entre raciocínio lógico, arquitetura e resultados práticos. 
-
-Hoje, atuo focado nos **bastidores da tecnologia (Back-end)**, construindo APIs sólidas, aplicando padrões de arquitetura limpa e garantindo que as engrenagens dos sistemas funcionem com alta performance e estabilidade.
+Desenvolvedor Full-Stack em Lazarus e um profundo apaixonado por tecnologia da informação. Apesar de trabalhar apenas com Lazarus, estou sempre me capacitando em outras tecnologias como C#, Nextjs, Nestjs e etc, procurando me atualizar o máximo com novas tecnologias que possam melhorar o meu trabalho e me trazer novos horizontes criativos. 
 
 **Tecnologias**
 
 <img width="305" height="92" alt="image" src="https://github.com/user-attachments/assets/82ea3691-6871-44f8-b7cb-c5dfd2988b11" />
 
-
-**Arquitetura, DevOps & Conceitos**
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-00599C?style=for-the-badge)
-![Microservices](https://img.shields.io/badge/Microservices-025E8D?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
 ---
 
-### 📌 Sobre mim & Objetivos
+### Estudos
 
-- 🔭 **Atualmente focado em:** Desenvolvimento de sistemas comerciais, arquitetura modular e boas práticas de backend.
-- 📚 **Estudando no momento:** Padrões de arquitetura distribuída, contêineres/orquestração e otimização de consultas SQL.
-- 💡 **Interesses:** Clean Code, refatoração de sistemas monólitos, automação e infraestrutura de TI.
+- Docker
+- kubernetes
+- Infraestrutura na Nuvem
+- Linux
+- Aprimorando C# e Typescript
 
----
-
-### Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=natanaelmustafa&show_icons=true&theme=radial&count_private=true" alt="Estatísticas do GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanaelmustafa&layout=compact&theme=radial" alt="Linguagens mais usadas" height="150"/>
-</div>
