@@ -4,10 +4,9 @@ Desde cedo, a fascinação pela tecnologia e pela resolução de problemas me gu
 
 Hoje, atuo focado nos **bastidores da tecnologia (Back-end)**, construindo APIs sólidas, aplicando padrões de arquitetura limpa e garantindo que as engrenagens dos sistemas funcionem com alta performance e estabilidade.
 
-**Linguagens & Frameworks**
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Lazarus](https://img.shields.io/badge/Delphi-Red?style=for-the-badge&logo=delphi&logoColor=white)
+**Tecnologias**
+<img width="305" height="92" alt="image" src="https://github.com/user-attachments/assets/82ea3691-6871-44f8-b7cb-c5dfd2988b11" />
+
 
 **Arquitetura, DevOps & Conceitos**
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-00599C?style=for-the-badge)
