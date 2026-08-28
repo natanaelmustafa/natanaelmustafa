@@ -1,6 +1,6 @@
 **Olá, eu sou o Natanael Mustafá!**
 
-Desenvolvedor Full-Stack em Lazarus e um profundo apaixonado por tecnologia da informação. Apesar de trabalhar apenas com Lazarus, estou sempre me capacitando em outras tecnologias como C#, Nextjs, Nestjs e etc, procurando me atualizar o máximo com novas tecnologias que possam melhorar o meu trabalho e me trazer novos horizontes criativos. 
+Desenvolvedor Full-Stack em Lazarus e um profundo apaixonado por tecnologia da informação. Apesar de trabalhar apenas com Lazarus, estou sempre me capacitando em outras tecnologias como C#, Nextjs, Nestjs e etc, procurando me atualizar o máximo com novas tecnologias que possam melhorar o meu trabalho e me trazer novos horizontes criativos. No perfil há diversos repositórios criados com as tecnologias mencionadas.
 
 **Tecnologias**
 
